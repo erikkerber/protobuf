@@ -590,6 +590,7 @@ cc_library(
         "message_lite.h",
         "metadata_lite.h",
         "parse_context.h",
+        "port.h",
         "raw_ptr.h",
         "repeated_field.h",
         "repeated_ptr_field.h",

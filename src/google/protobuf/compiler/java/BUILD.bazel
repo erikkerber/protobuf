@@ -126,6 +126,7 @@ cc_library(
         "shared_code_generator.cc",
     ],
     hdrs = [
+        "context.h",
         "file.h",
         "generator.h",
         "generator_factory.h",
